@@ -1,0 +1,5 @@
+/home/artem/IdeaProjects/spring-guides/data/src/main/java/ru/javabegin/training/spring/main/Start.java
+/home/artem/IdeaProjects/spring-guides/data/src/main/java/ru/javabegin/training/spring/dao/objects/MP3.java
+/home/artem/IdeaProjects/spring-guides/data/src/main/java/ru/javabegin/training/spring/dao/interfaces/MP3Dao.java
+/home/artem/IdeaProjects/spring-guides/data/src/main/java/ru/javabegin/training/spring/aop/postprocessors/MyBeanPostProcessor.java
+/home/artem/IdeaProjects/spring-guides/data/src/main/java/ru/javabegin/training/spring/dao/impls/SQLiteDAO.java
